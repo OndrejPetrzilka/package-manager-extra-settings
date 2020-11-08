@@ -1,0 +1,19 @@
+{
+    "name": "PackageManagerExtraSettings",
+    "references": [
+        "GUID:c38fb62397af04c51b143415e1db6d90",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:49818357e697641afb75d2f8acaf1861"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

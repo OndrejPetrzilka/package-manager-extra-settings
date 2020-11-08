@@ -1,0 +1,18 @@
+{
+    "name": "package-manager-extra-settings",
+    "displayName": "Package Manager Extra Settings",
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "unityRelease": "0f1",
+    "description": "Extra settings for Unity Package Manager (Project Settings/Package Manager/Extra Settings)\r\n - show hidden packages\r\n - disable warning on toolbar",
+    "dependencies": {
+        "com.unity.settings-manager": "1.0.3"
+    },
+    "keywords": [
+        "packages",
+        "package-manager",
+        "editor",
+        "unity",
+        "package"
+    ]
+}
